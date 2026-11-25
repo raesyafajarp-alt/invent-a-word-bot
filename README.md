@@ -8,9 +8,9 @@ A small Node program that coins one new English word and defines it in a single 
 
 ## What it writes
 
-One line, 79 characters, original and written for this competition:
+One line, 80 characters, original and written for this competition:
 
-> Cancelight (n.): the quiet relief when a plan you were dreading gets cancelled.
+> Cancelight (n.): the secret relief when a plan you were dreading gets cancelled.
 
 ## Run it
 

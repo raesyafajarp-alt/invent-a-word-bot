@@ -14,7 +14,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const ENTRY =
-  "Cancelight (n.): the quiet relief when a plan you were dreading gets cancelled.";
+  "Cancelight (n.): the secret relief when a plan you were dreading gets cancelled.";
 
 // The gate: 1 to 140 characters, counted as Unicode code points.
 const length = [...ENTRY].length;
