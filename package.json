@@ -1,0 +1,1 @@
+{"description":"Coins one new English word and defines it in a single clear line, written to /output/entry.txt.","license":"MIT","main":"main.ts","name":"invent-a-word-bot","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
